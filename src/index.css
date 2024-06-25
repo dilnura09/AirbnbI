@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    font: 800;
+    color: black;
+    background-color: rgba(210, 202, 202, 0.606);
+}
